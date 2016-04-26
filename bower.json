@@ -1,0 +1,17 @@
+{
+  "name": "js-contains",
+  "description": "java style 'contains' method",
+  "main": "js-contains.js",
+  "authors": [
+    "Tobias Rahloff <rahloff@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

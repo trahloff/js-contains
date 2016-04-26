@@ -1,0 +1,11 @@
+{
+  "name": "js-contains",
+  "version": "0.0.1",
+  "description": "java style 'contains' method",
+  "main": "js-contains.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Rahloff <rahloff@gmail.com>",
+  "license": "ISC"
+}
