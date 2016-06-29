@@ -5,7 +5,7 @@
 - example:
 
   ```javascript
-  require('node_contains');
+  require('js-contains');
   ["hi","ho"].contains("hi") // true
   ["he","ho"].contains("hi") // false
   "asjasdhiasdasd".contains("hi") // true
@@ -27,5 +27,5 @@
   ["hi","ho"].contains("hi") // true
   ["he","ho"].contains("hi") // false
   "asjasdhiasdasd".contains("hi") // true
-  "asjasdhiasdasd".contains("hi") // false
+  "asjasdhoasdasd".contains("hi") // false
   ```
