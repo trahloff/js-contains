@@ -9,7 +9,7 @@
   ["hi","ho"].contains("hi") // true
   ["he","ho"].contains("hi") // false
   "asjasdhiasdasd".contains("hi") // true
-  "asjasdhiasdasd".contains("hi") // false
+  "asjasdhoasdasd".contains("hi") // false
   ```
 
 # Frontend
@@ -18,7 +18,7 @@
 - inject the `js-contains.js` file into your HTML:
 
   ```html
-            <script src="[path_to_bower_packages]/js-contains/js-contains.js"></script>
+  <script src="[path_to_bower_packages]/js-contains/js-contains.js"></script>
   ```
 
 - example:

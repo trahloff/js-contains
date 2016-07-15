@@ -1,6 +1,6 @@
 {
   "name": "js-contains",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "java style 'contains' method",
   "main": "js-contains.js",
   "scripts": {
